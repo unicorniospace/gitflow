@@ -1,0 +1,1 @@
+fichero con soluciones que se suben con una versión minor siempre que todo lo modificado sea RETROCOMPATIBLE con lo ya existente en DEVELOP si NO lo es la versión del pom.xml deberá subir en una MAJOR.
